@@ -1,0 +1,11 @@
+C:\Users\nn137422\Documents\Visual Basic\Mad Libs\Mad Libs\bin\Debug\Mad Libs.exe.config
+C:\Users\nn137422\Documents\Visual Basic\Mad Libs\Mad Libs\bin\Debug\Mad Libs.exe
+C:\Users\nn137422\Documents\Visual Basic\Mad Libs\Mad Libs\bin\Debug\Mad Libs.pdb
+C:\Users\nn137422\Documents\Visual Basic\Mad Libs\Mad Libs\bin\Debug\Mad Libs.xml
+C:\Users\nn137422\Documents\Visual Basic\Mad Libs\Mad Libs\obj\Debug\Mad Libs.vbprojResolveAssemblyReference.cache
+C:\Users\nn137422\Documents\Visual Basic\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.Form1.resources
+C:\Users\nn137422\Documents\Visual Basic\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.Resources.resources
+C:\Users\nn137422\Documents\Visual Basic\Mad Libs\Mad Libs\obj\Debug\Mad Libs.vbproj.GenerateResource.Cache
+C:\Users\nn137422\Documents\Visual Basic\Mad Libs\Mad Libs\obj\Debug\Mad Libs.exe
+C:\Users\nn137422\Documents\Visual Basic\Mad Libs\Mad Libs\obj\Debug\Mad Libs.xml
+C:\Users\nn137422\Documents\Visual Basic\Mad Libs\Mad Libs\obj\Debug\Mad Libs.pdb
